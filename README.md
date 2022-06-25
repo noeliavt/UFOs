@@ -4,9 +4,10 @@
 The purpose of this project is create a table to organize UFO data that is stored as a JavaScript array, or list. This table will have the ability to filter data based on date, city, state, country and shape. This project will be created using JavaScript as the primary coding language.
 
 ## 2. Results
-The following table summarize June's and December's temperature statistics over time.
+In UFO website we can perform different filter data based on the following criteria:
+# 2.1 Filtering by Event Date
 <p align="center">
-  <img  src="Jun_Dec.png">
+  <img  src="resources/Filter_date.png">
 </p>
 From this information we can observe the following results:
 
