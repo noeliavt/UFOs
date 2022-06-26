@@ -5,9 +5,9 @@ The purpose of this project is create a table to organize UFO data that is store
 
 ## 2. Results
 In UFO website we can perform different filter data based on the following criteria:
-# 2.1 Filtering by Event Date
+### 2.1 Filtering by Event Date
 <p align="center">
-  <img  src="resources/Filter_date.png">
+  <img  src="/Resources/Filter_date.png">
 </p>
 From this information we can observe the following results:
 
