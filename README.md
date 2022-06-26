@@ -43,6 +43,5 @@ The user is able to search by Shape entering the desired Shape, after click ente
 </p>
 
 ## 3. Summary
-One of the drawbacks is that the user does not know all the possible parameters to use for filtering the information.
-In order to address this would be replace the input fields by drop-down lists including all filter values.
-also we can include a  button to clear the filters 
+* One of the drawbacks is that the user does not know all the possible parameters to use for filtering the information.
+* In order to address this would be replace the input fields by drop-down lists including all filter values, also we can include a  button to clear the filters 
