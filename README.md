@@ -5,6 +5,7 @@ The purpose of this project is create a table to organize UFO data that is store
 
 ## 2. Results
 In UFO website we can perform different filter data based on the following criteria:
+
 ### 2.1 Filtering by Event Date
 
 The user is able to search by Event Date entering the desired date, after click enter the change is detected and the table is updated accordingly.
@@ -12,6 +13,7 @@ The user is able to search by Event Date entering the desired date, after click 
 <p align="center">
   <img  src="/Resources/Filter_date.png">
 </p>
+
 ### 2.2 Filtering by City
 
 The user is able to search by City entering the desired city, after click enter the change is detected and the table is updated accordingly.
@@ -41,5 +43,6 @@ The user is able to search by Shape entering the desired Shape, after click ente
 </p>
 
 ## 3. Summary
-
-
+One of the drawbacks is that the user does not know all the possible parameters to use for filtering the information.
+In order to address this would be replace the input fields by drop-down lists including all filter values.
+also we can include a  button to clear the filters 
