@@ -6,15 +6,31 @@ The purpose of this project is create a table to organize UFO data that is store
 ## 2. Results
 In UFO website we can perform different filter data based on the following criteria:
 ### 2.1 Filtering by Event Date
+The user is able to search by Event Date entering the desired date, after click enter the change is detected and the table is updated accordingly.
 <p align="center">
   <img  src="/Resources/Filter_date.png">
 </p>
-From this information we can observe the following results:
-
-* Average temperature between June and December is 75 and 71 degrees respectively, show a moderate temperature and very little fluctuation between the two periods from an average standpoint.
-* The maximum temperatures of 85 (June) and 83 (December) are also remarkable similar.
-* The minimum temperature of 56 (December) and 64 (June) show the greatest variance, and reflects a much lower temperature level in December that may not be conducive to ice cream or surfing. However, with standard deviations of 3.25 (June) and 3.74 (December) we would expect a little more variation in the december numbers.
+### 2.2 Filtering by City
+The user is able to search by City entering the desired city, after click enter the change is detected and the table is updated accordingly.
+<p align="center">
+  <img  src="/Resources/Filter_City.png">
+</p>
+### 2.3 Filtering by State
+The user is able to search by State entering the desired state, after click enter the change is detected and the table is updated accordingly.
+<p align="center">
+  <img  src="/Resources/Filter_State.png">
+</p>
+### 2.4 Filtering by Country
+The user is able to search by Country entering the desired country, after click enter the change is detected and the table is updated accordingly.
+<p align="center">
+  <img  src="/Resources/Filter_Country.png">
+</p>
+### 2.5 Filtering by Shape
+The user is able to search by Shape entering the desired Shape, after click enter the change is detected and the table is updated accordingly.
+<p align="center">
+  <img  src="/Resources/Filter_State.png">
+</p>
 
 ## 3. Summary
 
-The weather in December and June are very similar, although December has a wider range of results, with its high being close to June's but its low well below June's, then we can conclude since there is a little fluctuation in the temperature the ice cream shop bussiness will sustainable year-around.
+
